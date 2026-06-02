@@ -1,0 +1,5 @@
+.vs/
+mywebapp/bin/
+mywebapp/obj/
+mywebapp/wwwroot/lib/
+**/.env
