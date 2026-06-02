@@ -1,4 +1,4 @@
-# mywebapp
+# sql-distributed-systems-project
 
 ASP.NET Core 8 web app with two SQL Server databases. Workflow: develop locally with Docker Compose, then deploy to Kubernetes.
 
